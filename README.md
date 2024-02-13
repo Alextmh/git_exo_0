@@ -33,3 +33,4 @@ Auteurs :
  - Fabien Rozar
  - Alexandre Tam-Hui
  - Lénaïc Honorine
+ - Mathilde Vingadessin
